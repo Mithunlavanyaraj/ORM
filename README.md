@@ -49,7 +49,8 @@ class EmployeeAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![Mithun's Output](<ex02 Output.png>)
+![image](https://github.com/Mithunlavanyaraj/ORM/assets/120077786/0d7ab752-f94e-4cce-a416-bb3e8fd97ad4)
+
 
 ## RESULT
 Thus the program for creating a database using ORM has been executed successfully
