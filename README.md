@@ -49,7 +49,8 @@ class EmployeeAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![Mithun's Output](<ex02 Output.png>)
+![naveen](<Exp 2 naveen.png>)
+
 
 ## RESULT
 Thus the program for creating a database using ORM has been executed successfully
